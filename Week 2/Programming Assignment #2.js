@@ -57,3 +57,4 @@ mergeSort(arr, tempArray, 0, sizeOfArray - 1);
 
 console.log(arr.join(" "));
 
+//Solution : 2407905288
