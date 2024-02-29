@@ -1,3 +1,4 @@
+//Solution : 17
 class KargerMinCutter {
     constructor(graphFile) {
         this._graph = {};
