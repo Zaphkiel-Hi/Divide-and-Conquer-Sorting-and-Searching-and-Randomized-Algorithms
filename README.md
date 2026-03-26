@@ -6,7 +6,7 @@ The primary topics in this part of the specialization are: asymptotic ("Big-oh")
  
 Category: Algorithms
  
-Category: Randomized Algorithm
+Category: Randomized Algorithm 
                          
 Category: Sorting Algorithm
  
